@@ -1,0 +1,19 @@
+WTB
+- Where to buy
+WTB Impressions
+- is this the total number of visits to any product page at WernerCo.com?
+- Yes IF the CITY Ladder logo is on that page
+WTB ClickThroughs
+- is this the total number of click throughs to CityLadder?
+- If they clicked on our logo and went to us
+WTB Impressions by Product
+- are these the total number of impressions on the WernerCo.com product pages?
+- Same as above but specific if it goes thru a specific product
+WTB ClickThroughs By Product
+- are these the click throughs per product to CityLadder?
+-Same as above
+Sales
+- Am i correct that we are seeing nothing on the sales tabs because we are unable to put the the PriceSpyder javascript "cookie" on Shopify?
+- Yes
+
+* From Stacey Gardella email to Noel Berk-Rauch 11/29/2017
